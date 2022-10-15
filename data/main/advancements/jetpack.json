@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "recipe": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "main:jetpack"
+            }
+        }
+    },
+    "rewards": {
+        "function": "main:recipes/jetpack"
+    }
+}

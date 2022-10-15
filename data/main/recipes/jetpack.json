@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#H#",
+        "IJI",
+        "W L"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "J": {
+            "item": "minecraft:iron_chestplate"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

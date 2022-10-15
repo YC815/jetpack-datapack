@@ -1,0 +1,6 @@
+{
+    "values": [
+        "main:tick_and_load/tick",
+        "main:tick_and_load/tick_2"
+    ]
+}
